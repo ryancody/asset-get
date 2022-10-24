@@ -1,2 +1,2 @@
 # asset-get
-Unity package for getting assets
+Automatically import assets from folders outside the project
